@@ -23,11 +23,12 @@ The npm run start command will be "watching" for changes, so keep it running in 
 <details>
   <summary>For Chrome/Brave/Edge (Chromium users): (click)</summary>
 
-Open your browser
-Go to chrome://extensions/ (or brave://extensions/, edge://extensions/)
-Enable "Developer mode" in the top right corner
-Click "Load unpacked"
-Select the dist folder inside your project
+1. Open your browser
+2. Go to chrome://extensions/ (or brave://extensions/, edge://extensions/)
+3. Enable "Developer mode" in the top right corner
+4. Click "Load unpacked"
+5. Select the dist folder inside your project
+
 That's it! Extension is now ready to use 🎉
 
 </details>
@@ -35,11 +36,11 @@ That's it! Extension is now ready to use 🎉
 <details>
   <summary>For Firefox users: (click)</summary>
 
-Open Firefox
-Go to about:debugging#/runtime/this-firefox
-Click "Load Temporary Add-on..."
-Navigate to the dist folder and select the manifest.json file
-That's it! Extension is now ready to use 🎉
+1. Open Firefox
+2. Go to about:debugging#/runtime/this-firefox
+3. Click "Load Temporary Add-on..."
+4. Navigate to the dist folder and select the manifest.json file
+5. That's it! Extension is now ready to use 🎉
 
 </details>
 
